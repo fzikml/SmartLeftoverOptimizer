@@ -1,5 +1,4 @@
-# SmartLeftoverOptimizer
-
+## Smart Leftover Optimizer
 An LLM-Driven Daily Meal Repurposing Assistant for Household Food Waste Minimization
 
 ## Problem statement
