@@ -11,5 +11,5 @@
 ## Non-functional requirements (how the system must PERFORM)
 1. This process should take no more than 5.0 seconds for the completion of the entire process.
 2. The system should facilitate first-time users to input their leftover food items and obtain a recipe within 3 steps or less.
-3. The system should be able to parse successfully over 95% of the structured recipe output from the LLM API into JSON.
-4. The repurposed recipes that will be generated must show at least a 30% reduction in preparation steps relative to regular from-scratch recipes.
+3. The system should be able to parse successfully over 95 percent of the structured recipe output from the LLM API into JSON.
+4. The repurposed recipes that will be generated must show at least a 30 percent reduction in preparation steps relative to regular from-scratch recipes.

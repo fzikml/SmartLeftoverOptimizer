@@ -3,7 +3,7 @@
 Format: As a [type of user], I want [goal], so that [reason or benefit].
 
 1. As a busy student with limited cooking time, I want to generate quick recipes using my near-expiry cooked rice and leftover chicken, so that I can prepare a fresh dinner in under 20 minutes without wasting food. (FR1,FR3,FR5)
-- Acceptance Criteria 1: "Cooked Rice 1 day left" and "cooked chicken," prioritization of these two ingredients in the recommended recipe compared to other items    stored longer in the pantry. 
+- Acceptance Criteria 1: "Cooked Rice 1 day left" and "cooked chicken" prioritization of these two ingredients in the recommended recipe compared to other items    stored longer in the pantry. 
 - Acceptance Criteria 2: The application shows preparation and cooking time that should not exceed 20 minutes.
 
 2. As a health-conscious home cook, I want the system to warn me if I input a leftover item that is no longer safe to consume, so that I do not accidentally prepare unsafe food. (FR2)
