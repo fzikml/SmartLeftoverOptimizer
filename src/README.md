@@ -28,7 +28,7 @@ Busy households, students, and home cooks who must deal with daily meal planning
 ## Roadmap
 - [x] Problem statement written
 - [x] Requirements numbered and linked to user stories
-- [ ] User stories have acceptance criteria
+- [x] User stories have acceptance criteria
 - [ ] Specialized technology chosen and explained
 - [ ] First prototype (later in the semester)
 
